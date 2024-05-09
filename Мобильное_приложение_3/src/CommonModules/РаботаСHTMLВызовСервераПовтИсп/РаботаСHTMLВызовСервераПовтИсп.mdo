@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ef3179d7-0e67-4959-beb9-15f95624e06c">
+  <name>РаботаСHTMLВызовСервераПовтИсп</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа СHTMLВызов сервера повт исп</value>
+  </synonym>
+  <synonym>
+    <key>vi</key>
+    <value>Làm việc với HTML Gọi ra Server cache</value>
+  </synonym>
+  <server>true</server>
+  <serverCall>true</serverCall>
+  <returnValuesReuse>DuringSession</returnValuesReuse>
+</mdclass:CommonModule>

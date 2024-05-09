@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1c022c3b-3c30-40c6-aa7b-75ec2cefb710">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="face7c96-eb28-4897-916a-444cf0c73c77"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5836f9fd-7f5a-46d9-96c1-5b187e94358f"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="74bf10f8-a649-48d2-905e-173a2ff1ce49"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="cfb2d495-b1ed-4c2a-8b0f-54544a80304d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="0ab7b7eb-7862-4e99-a764-a94fa6858ad3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6bfcb302-8dce-4674-9a1f-a8c64b1b448e"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="804e0747-5840-4497-9c86-b0d388cf1c10"/>
+  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="802acdb8-c982-4093-9eb2-3b46a10fa969">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Календарь</subsystems>
+  <subsystems>Subsystem.Дела</subsystems>
+  <subsystems>Subsystem.Заметки</subsystems>
+  <subsystems>Subsystem.Дневник</subsystems>
+  <commonModules>CommonModule.ОбщегоНазначенияВызовСервера</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентСерверГлобальный</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиент</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентГлобальный</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияВызовСервераПовтИсп</commonModules>
+  <commonModules>CommonModule.РаботаСHTML</commonModules>
+  <commonModules>CommonModule.РаботаСHTMLВызовСервера</commonModules>
+  <commonModules>CommonModule.РаботаСHTMLВызовСервераПовтИсп</commonModules>
+  <commonModules>CommonModule.РаботаСHTMLКлиент</commonModules>
+  <commonModules>CommonModule.РаботаСHTMLКлиентСервер</commonModules>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <commonForms>CommonForm.РабочийСтол</commonForms>
+  <catalogs>Catalog.ЗаписиКалендаря</catalogs>
+  <catalogs>Catalog.Заметка</catalogs>
+  <catalogs>Catalog.Дело</catalogs>
+  <catalogs>Catalog.ЗаписьДневника</catalogs>
+</mdclass:Configuration>
